@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gharsa Amin</h1>
 <h3 align="center">A full stack developer based in Toronto, Canada.</h3>
 
-- 🔭 I’m currently working on [a stock+trading trading app](work in progress: Link soon to be available).
+- 🔭 I’m currently working on [a stock+crypto trading app](work in progress: Link soon to be available).
   
 - 🔭 I'm also developing an APP at the intersection of quantum computing and blockchain technology (work in progress: Link soon to be available). 
 
