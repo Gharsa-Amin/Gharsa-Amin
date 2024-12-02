@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gharsa Amin 👨‍💻 </h1>
+<h1 align="center">Hi 👋, I'm Gharsa Amin 👩‍💻 </h1>
 <h3 align="center">A full stack developer based in Toronto, Canada.</h3>
 
 - 🔭 I’m currently working on [a stock+crypto trading app](work in progress: Link soon to be available).
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gha rsanay-amin/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: on Linkedin or using my email address (ghars0718@gmail.com)</h3>
 <p align="left">
 </p>
 
