@@ -22,7 +22,7 @@ I’m a Full-Stack Developer passionate about creating secure, innovative soluti
   <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Chrome_logo_2011.svg" alt="chrome" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Postman_logo.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1515015?s=200&v=4" alt="axios" width="40" height="40"/></a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://axios-http.com/favicon.ico" alt="axios" width="40" height="40"/></a>
   <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Google_Chrome_DevTools_logo.svg" alt="chrome-devtools" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Git-logo.svg" alt="git" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
