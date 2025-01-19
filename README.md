@@ -25,9 +25,7 @@ I’m a Full-Stack Developer passionate about creating secure, innovative soluti
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-  <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=passport" alt="passportjs" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jira" alt="jira" width="40" height="40"/></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/></a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a>
   <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=testinglibrary" alt="react-testing-library" width="40" height="40"/></a>
