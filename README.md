@@ -2,7 +2,7 @@
 
 I’m a Full-Stack Developer passionate about creating secure, innovative solutions. With a background in compliance and trading, I’m driven to build software that bridges the gap between security, technology, and user needs. I’m always eager to learn and take on new challenges to expand my skill set and deepen my understanding.
 
-## About Me 💁🏻‍♂️
+## About Me 💁🏻‍♀️
 
 - 🎓 I have **completed my Diploma in Software Engineering**
 - 🔭 I’m currently developing projects in **blockchain and cryptocurrency**
