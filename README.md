@@ -50,6 +50,11 @@ I’m currently seeking full-time employment opportunities as a **Full-Stack Dev
   </a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gharsa-Amin&show_icons=true&locale=en" alt="Gharsa-Amin" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gharsa-Amin&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 ---
 
 > "Building impactful software solutions that bridge the gap between security, innovation, and user needs."
