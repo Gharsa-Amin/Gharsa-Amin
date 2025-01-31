@@ -1,6 +1,7 @@
 # Hi there, I'm Gharsa Amin 👋
 
 I’m a Full-Stack Developer passionate about creating secure, innovative solutions. With a background in compliance and trading, I’m driven to build software that bridges the gap between security, technology, and user needs. I’m always eager to learn and take on new challenges to expand my skill set and deepen my understanding.
+![Background](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtwbjkyN2VmMGdoMDR0Nm1sbWJjZmpvNDliOWwzY2Rqa2s0azZqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif)
 
 ## About Me 💁🏻‍♀️
 
