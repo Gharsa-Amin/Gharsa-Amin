@@ -1,7 +1,9 @@
 # Hi there, I'm Gharsa Amin 👋
 
 I’m a Full-Stack Developer passionate about creating secure, innovative solutions. With a background in compliance and trading, I’m driven to build software that bridges the gap between security, technology, and user needs. I’m always eager to learn and take on new challenges to expand my skill set and deepen my understanding.
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtabala&label=Profile%20views&color=0e75b6&style=flat" alt="mtabala" />
+</p>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNzNGczOGF4dnB6YmU1aGtoYmpjZzdnaXBsOWoyZmM1YW90aXVnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" alt="Background" width="700px" height="500px"/>
 
 
