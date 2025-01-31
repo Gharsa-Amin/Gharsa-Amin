@@ -16,7 +16,6 @@ I’m a Full-Stack Developer passionate about creating secure, innovative soluti
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tableau" alt="tableau" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
@@ -26,13 +25,13 @@ I’m a Full-Stack Developer passionate about creating secure, innovative soluti
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=testinglibrary" alt="react-testing-library" width="40" height="40"/></a>
-<a href="https://www.loom.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=loom" alt="loom" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/></a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/></a>
-
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></a>
 
 ## What's Next 🚀
 
